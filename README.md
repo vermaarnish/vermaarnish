@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @vermaarnish
-- 👀 I’m interested in problem solving,data structure and development
-- 🌱 I have completed  B.tech in computer science and engineering from mmmut gorakhpur in 2024.
-- 💞️ I’m looking to collaborate on every aspect which comes under my experience and interest.
-- 📫 you can reach me through vermaarnish@gmail.com
-
-<!---
-vermaarnish/vermaarnish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm @vermaarnish
+- 🎓 M.Tech CSE Student at IIIT Bangalore | B.Tech CSE, MMMUT Gorakhpur (2024)
+- 🏆 GATE CSE 2026 AIR 1337 | GATE CSE 2025 AIR 1374
+- 💻 Passionate about Problem Solving, Data Structures & Algorithms, Backend Development, and Machine Learning.
+- 🌱 Currently learning Java, Spring Boot, and System Design.
+- 🤝 Open to collaborating on software development and open-source projects.
+- 📫 Reach me at: vermaarnish@gmail.com
