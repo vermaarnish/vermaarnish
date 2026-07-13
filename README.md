@@ -4,9 +4,7 @@
 - 💻 Passionate about Problem Solving, Data Structures & Algorithms, Backend Development, and Machine Learning.
 - 🌱 Currently learning Java, Spring Boot, and System Design.
 - 🤝 Open to collaborating on software development and open-source projects.
-- 📫 Reach me at: vermaarnish@gmail.com
 
-- 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vermaarnish) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arnish-verma-045014206) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@ARNISH VERMA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vermaarnish808@gmail.com) 
 
